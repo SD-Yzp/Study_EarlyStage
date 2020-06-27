@@ -1,0 +1,37 @@
+package Test1;
+
+import java.util.Scanner;
+
+public class Test1 {
+	public static void main(String[] args) {
+		int i=99;
+		System.out.println(i--);
+		System.out.println(--i);
+		
+//		for(int j=2;j<3;j++) 
+//		{
+//			System.out.println("11111111");	
+//		}
+		
+//		int[][] a = new int[2][100];
+//		
+//		for(int i=0;i<2;i++) 
+//		{
+//			a[0][i]=1;
+//		}
+//		for(int i=0;i<a[0].length;i++) 
+//		{
+//			System.out.println(a[0][i]);
+//		}
+		
+//		int i = Integer.parseInt("22");
+//		System.out.println(i);
+		
+		int a = 4;
+//		System.out.println(a);
+		System.out.println(a++*a);
+		
+	}
+
+	
+}

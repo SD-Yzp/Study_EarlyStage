@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 4" tests="0" total_time="null"/>
+<test location="D:\JAVA Code\workspace\Python_Learn\src\learn\DrawZ.py" status="error" test="DrawZ" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "D:\Eclipse\eclipse\plugins\org.python.pydev.core_7.2.1.201904261721\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "D:/JAVA Code/workspace/Python_Learn/src/learn\DrawZ.py", line 5
+    '''
+     ^
+SyntaxError: (unicode error) 'utf-8' codec can't decode byte 0xc4 in position 16: invalid continuation byte
+ERROR: Module: DrawZ could not be imported (file: D:\JAVA Code\workspace\Python_Learn\src\learn\DrawZ.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Python_Learn DrawZ.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

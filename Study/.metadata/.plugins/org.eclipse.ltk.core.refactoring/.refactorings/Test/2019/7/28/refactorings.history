@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;LinkList.java&apos; to &apos;Test/src/TestLatin&apos;&#x0D;&#x0A;- Original project: &apos;Test&apos;&#x0D;&#x0A;- Destination element: &apos;Test/src/TestLatin&apos;&#x0D;&#x0A;- Original element: &apos;TestMagicCord.LinkList.java&apos;" description="Copy compilation unit" destination="/src&lt;TestLatin" element1="/src&lt;TestMagicCord{LinkList.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1562642290061" units="1" version="1.0"/>
+</session>

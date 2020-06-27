@@ -1,0 +1,133 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\JAVA Code\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Python_Learn\com.python.pydev.analysis\v2_indexcache
+five.Test1|1566993416147968000|D:\JAVA Code\workspace\Python_Learn\src\five\Test1.py
+nine.Test2|1566998524376769000|D:\JAVA Code\workspace\Python_Learn\src\nine\Test2.py
+learn.test3Hello|1566907496045278000|D:\JAVA Code\workspace\Python_Learn\src\learn\test3Hello.py
+final.__init__|1567001465527063000|D:\JAVA Code\workspace\Python_Learn\src\final\__init__.py
+learn.DrawZ|1566827577779553000|D:\JAVA Code\workspace\Python_Learn\src\learn\DrawZ.py
+three.Test1|1566991949956605000|D:\JAVA Code\workspace\Python_Learn\src\three\Test1.py
+five.Test2|1566993709854691000|D:\JAVA Code\workspace\Python_Learn\src\five\Test2.py
+nine.Test1|1566998104283626000|D:\JAVA Code\workspace\Python_Learn\src\nine\Test1.py
+learn.__init__|1565704723514022000|D:\JAVA Code\workspace\Python_Learn\src\learn\__init__.py
+seven.Test2|1566997330667330000|D:\JAVA Code\workspace\Python_Learn\src\seven\Test2.py
+seven.Test1|1566997234220113000|D:\JAVA Code\workspace\Python_Learn\src\seven\Test1.py
+eight.__init__|1566997629465951000|D:\JAVA Code\workspace\Python_Learn\src\eight\__init__.py
+learn.test1|1566906016298330000|D:\JAVA Code\workspace\Python_Learn\src\learn\test1.py
+learn.PythonDraw|1566829750389653000|D:\JAVA Code\workspace\Python_Learn\src\learn\PythonDraw.py
+four.Test2|1566992598274205000|D:\JAVA Code\workspace\Python_Learn\src\four\Test2.py
+learn.test4Number|1566907839492026000|D:\JAVA Code\workspace\Python_Learn\src\learn\test4Number.py
+four.Test1|1566992317449020000|D:\JAVA Code\workspace\Python_Learn\src\four\Test1.py
+three.Test2|1566992032713527000|D:\JAVA Code\workspace\Python_Learn\src\three\Test2.py
+eight.Test2|1566998085096911000|D:\JAVA Code\workspace\Python_Learn\src\eight\Test2.py
+eight.Test1|1566997653312906000|D:\JAVA Code\workspace\Python_Learn\src\eight\Test1.py
+final.Test1|1567001484115845000|D:\JAVA Code\workspace\Python_Learn\src\final\Test1.py
+six.Test1|1566994494215823000|D:\JAVA Code\workspace\Python_Learn\src\six\Test1.py
+five.__init__|1566993353153741000|D:\JAVA Code\workspace\Python_Learn\src\five\__init__.py
+three.__init__|1566956794117080000|D:\JAVA Code\workspace\Python_Learn\src\three\__init__.py
+six.__init__|1566994289544219000|D:\JAVA Code\workspace\Python_Learn\src\six\__init__.py
+seven.__init__|1566997033167960000|D:\JAVA Code\workspace\Python_Learn\src\seven\__init__.py
+six.Test2|1566994907664125000|D:\JAVA Code\workspace\Python_Learn\src\six\Test2.py
+learn.manage|1565789631338596000|D:\JAVA Code\workspace\Python_Learn\src\learn\manage.py
+nine.__init__|1566998077674580000|D:\JAVA Code\workspace\Python_Learn\src\nine\__init__.py
+final.Test2|1567001576926907000|D:\JAVA Code\workspace\Python_Learn\src\final\Test2.py
+three.DayDayUpQ2|1566973184237258000|D:\JAVA Code\workspace\Python_Learn\src\three\DayDayUpQ2.py
+three.DayDayUpQ3|1566980127755166000|D:\JAVA Code\workspace\Python_Learn\src\three\DayDayUpQ3.py
+three.DayDayUpQ4|1566983094231474000|D:\JAVA Code\workspace\Python_Learn\src\three\DayDayUpQ4.py
+learn.test5Draw8|1566908529460591000|D:\JAVA Code\workspace\Python_Learn\src\learn\test5Draw8.py
+learn.test6Draw8J|1566908756615789000|D:\JAVA Code\workspace\Python_Learn\src\learn\test6Draw8J.py
+three.DayDayUpQ1|1566956989099643000|D:\JAVA Code\workspace\Python_Learn\src\three\DayDayUpQ1.py
+learn.test2Draw|1566906657877152000|D:\JAVA Code\workspace\Python_Learn\src\learn\test2Draw.py
+learn.test|1565788791517119000|D:\JAVA Code\workspace\Python_Learn\src\learn\test.py
+-- END DISKCACHE
+-- START DICTIONARY
+50
+20=nine.Test2
+6=learn.test3Hello
+33=D:\JAVA Code\workspace\Python_Learn\src\three\Test2.py
+17=D:\JAVA Code\workspace\Python_Learn\src\nine\Test1.py
+29=D:\JAVA Code\workspace\Python_Learn\src\seven\Test2.py
+36=three.Test1
+49=D:\JAVA Code\workspace\Python_Learn\src\learn\test.py
+18=nine.Test1
+2=learn.__init__
+39=D:\JAVA Code\workspace\Python_Learn\src\four\Test1.py
+4=learn.test1
+21=D:\JAVA Code\workspace\Python_Learn\src\three\DayDayUpQ1.py
+38=learn.test4Number
+31=D:\JAVA Code\workspace\Python_Learn\src\five\Test1.py
+34=three.Test2
+5=D:\JAVA Code\workspace\Python_Learn\src\learn\test3Hello.py
+48=final.Test1
+35=D:\JAVA Code\workspace\Python_Learn\src\three\Test1.py
+43=D:\JAVA Code\workspace\Python_Learn\src\final\Test2.py
+44=final.Test2
+3=D:\JAVA Code\workspace\Python_Learn\src\learn\test1.py
+23=D:\JAVA Code\workspace\Python_Learn\src\three\DayDayUpQ2.py
+50=learn.test
+13=D:\JAVA Code\workspace\Python_Learn\src\eight\Test1.py
+1=D:\JAVA Code\workspace\Python_Learn\src\learn\__init__.py
+32=five.Test1
+37=D:\JAVA Code\workspace\Python_Learn\src\learn\test4Number.py
+16=five.Test2
+47=D:\JAVA Code\workspace\Python_Learn\src\final\Test1.py
+30=seven.Test2
+10=seven.Test1
+8=four.Test2
+27=D:\JAVA Code\workspace\Python_Learn\src\three\DayDayUpQ3.py
+40=four.Test1
+46=eight.Test2
+14=eight.Test1
+45=D:\JAVA Code\workspace\Python_Learn\src\eight\Test2.py
+42=six.Test1
+9=D:\JAVA Code\workspace\Python_Learn\src\seven\Test1.py
+11=D:\JAVA Code\workspace\Python_Learn\src\six\Test2.py
+19=D:\JAVA Code\workspace\Python_Learn\src\nine\Test2.py
+12=six.Test2
+7=D:\JAVA Code\workspace\Python_Learn\src\four\Test2.py
+24=three.DayDayUpQ2
+28=three.DayDayUpQ3
+26=three.DayDayUpQ4
+22=three.DayDayUpQ1
+25=D:\JAVA Code\workspace\Python_Learn\src\three\DayDayUpQ4.py
+41=D:\JAVA Code\workspace\Python_Learn\src\six\Test1.py
+15=D:\JAVA Code\workspace\Python_Learn\src\five\Test2.py
+-- END DICTIONARY
+-- START TREE 1
+32
+C|2|C!1^4#5*19@C!3^3#5*35@
+F|2|F!1^7#5*19@F!3^6#5*35@
+a|2|a!5^1#1*51@a!7^1#1*67@
+avg|1|avg!9^9#1*83@
+c|2|c!11^22#1*99@c!13^3#5*115@
+cha|1|chars!9^3#1*83@
+cou|1|count!15^10#1*131@
+d1|1|d1!17^2#1*147@
+d2|1|d2!17^3#1*147@
+d3|1|d3!17^4#1*147@
+dat|1|data!19^6#1*163@
+day|8|dayup!21^1#1*179@daydown!23^3#1*195@dayup!23^2#1*195@daydown!21^2#1*179@dayfactor!25^9#1*211@dayfactor!27^1#1*227@dayUp!25^1#5*210@dayfactor!23^1#1*195@
+f|2|f!29^1#1*243@f!9^1#1*83@
+gen|1|genpwd!31^3#5*258@
+i|1|i!9^2#1*83@
+k|1|k!15^8#1*131@
+l|1|l!33^2#1*275@
+len|1|length!31^7#1*259@
+lin|2|line!29^6#5*243@lines!29^2#1*243@
+n|2|n!15^7#1*131@n!35^1#1*291@
+num|3|num1!37^8#13*307@num!27^2#1*227@num2!37^13#9*307@
+op|1|op!37^3#1*307@
+op_|1|op_num!37^2#1*307@
+pri|1|prime!15^1#5*130@
+re|1|re!39^5#17*323@
+res|1|res!41^1#1*339@
+row|1|rows_set!43^2#5*355@
+s|6|s!45^1#1*371@s!39^6#17*323@s!33^1#1*275@s!11^19#1*99@s!13^1#1*115@s!47^1#1*387@
+str|3|str1!49^2#1*403@string!37^1#1*307@str2!49^11#1*403@
+t|1|t!29^8#5*243@
+tem|2|TempStr!1^2#1*19@TempStr!3^1#1*35@
+wor|1|words!11^21#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

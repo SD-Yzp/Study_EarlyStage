@@ -1,0 +1,31 @@
+package cn.sd.yz.MySQL;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class Demo02 {
+	public static void main(String[] args) {
+		Connection conn = null;
+		Statement stmt = null;
+		try {
+			Class.forName("com.mysql.cj.jdbc.Driver");
+			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/testjdbc?serverTimezone=UTC","root","123456");
+	
+			stmt = conn.createStatement();
+//			String sql = "insert into t_user (username,pwd,regTime) values ('赵六',6666,now())";
+//			stmt.execute(sql);
+			String name = "苏三";
+			String sql = "insert into t_user (username,pwd,regTime) values ('"+name+"',7777,now())";
+			stmt.execute(sql);
+			
+			
+		} catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		
+	}
+}

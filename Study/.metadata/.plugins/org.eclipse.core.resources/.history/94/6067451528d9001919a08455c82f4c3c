@@ -1,0 +1,17 @@
+package cn.sd.yz.test;
+
+/**
+ * 测试自定义的FileSystemClassLoader
+ * @author Yin
+ *
+ */
+public class Demo03 {
+	public static void main(String[] args) throws Exception {
+		FileSystemClassLoader loader = new FileSystemClassLoader("f:/myjava");
+		FileSystemClassLoader loader2 = new FileSystemClassLoader("f:/myjava");
+		
+		Class<?> c = loader.loadClass("HelloWorld");
+		
+		System.out.println(c.hashCode());
+	}
+}

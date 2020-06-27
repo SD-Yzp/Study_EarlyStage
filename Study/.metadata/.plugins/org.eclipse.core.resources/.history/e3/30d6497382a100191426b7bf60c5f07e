@@ -1,0 +1,56 @@
+package TestMagicCord;
+
+/**
+ * 创建循环链表
+ * @author Yin
+ *
+ */
+public class LinkList {
+	Node first;
+	int size;
+	
+	
+	public void add(Object element) {
+		Node newNode = new Node(element);
+		
+		Node temp = first;
+		if(first==null) {
+			first=newNode;
+		}else {
+			while(temp!=null) {
+				temp=temp.next;
+			}
+			temp=newNode;
+		}
+		newNode.next=first;
+		
+		size++;
+	}
+
+	
+	@Override
+	public String toString() {
+		StringBuilder sb = new StringBuilder("[");
+		
+		Node temp = first;
+		while(temp!=null) {
+			sb.append(temp.element+",");
+		}
+		sb.setCharAt(sb.length()-1, ']');
+		return sb.toString();
+	}
+
+
+
+
+
+	public static void main(String[] args) {
+		LinkList list = new LinkList();
+		list.add(1);
+		list.add(2);
+		list.add(3);
+		list.add(4);
+		
+		System.out.println(list);
+	}
+}

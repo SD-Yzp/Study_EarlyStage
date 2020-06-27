@@ -1,0 +1,60 @@
+package TestJoseph;
+
+/**
+ * 创建单链表（add方法，只考虑在最后添加）
+ * @author Yin
+ *
+ */
+public class LinkList01 {
+	Node head = new Node(null);
+	private int size;
+	
+	public void add(Object obj) {
+		Node node = new Node(obj);
+		
+		Node temp = null;
+		
+		if(head.next==null) {
+			head.next=node;
+		}else {
+			temp = head;
+			while(temp.next!=null) {
+				temp = temp.next;
+			}
+			temp.next=node;
+		}
+		
+		size++;
+	}
+		
+	
+	@Override
+	public String toString() {
+		StringBuilder sb = new StringBuilder("[");
+		
+		Node temp = head.next;		
+		while(temp!=null) {
+			sb.append(temp.element+",");
+			temp=temp.next;
+		}		
+		sb.setCharAt(sb.length()-1, ']');
+		
+		return sb.toString();
+	}
+
+
+
+
+
+	public static void main(String[] args) {
+		LinkList01 list = new LinkList01();
+		
+		list.add("aa");
+		list.add("bb");
+		list.add("cc");
+		
+		System.out.println(list);
+		System.out.println(size);
+	}
+	
+}

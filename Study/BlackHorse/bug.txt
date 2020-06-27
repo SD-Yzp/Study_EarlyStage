@@ -1,0 +1,9 @@
+sub方法出现问题
+问题的类型为：NullPointerException
+问题的原因为：null
+----------------
+div方法出现问题
+问题的类型为：ArithmeticException
+问题的原因为：/ by zero
+----------------
+出现问题的次数为：2次

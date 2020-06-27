@@ -1,0 +1,9 @@
+package cn.sd.yz.adapter;
+
+public class Adaptee2 extends Adapter implements Target{
+	
+	@Override
+	public void handleReq() {
+		super.request();
+	}
+}

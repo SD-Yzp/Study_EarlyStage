@@ -1,0 +1,63 @@
+package cn.sd.yz.io;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+
+/*
+ * 使用输入、输出字节流实现文件的拷贝
+ */
+public class Copy {
+	public static void main(String[] args) {
+		copy("D:/JAVA Code/workspace/MyPro14/src/cn/sd/yz/io/Copy.java","copy.txt");
+	}
+	
+	
+	static void copy(String srcPath,String destPath) {		
+		//1、创建源
+		File src = new File(srcPath);  //输入文件，源头
+		File src_copy = new File(destPath);  //输出文件，目的地
+		//2、选择流
+		FileInputStream is = null;
+		FileOutputStream os = null;
+		//3、操作
+		try {
+			is = new FileInputStream(src);
+			os = new FileOutputStream(src_copy);
+			//3、操作：分段读取
+			byte[] data = new byte[1024]; //缓冲容器
+			int len = -1; //接收长度
+			try {
+				while((len=is.read(data))!=-1) {
+					os.write(data,0,len);  //分段写出
+				}
+				os.flush();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}finally {   //关闭时，先打开的后关闭
+			try {
+				if(os!=null) {					
+					os.close();
+				}
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}		
+			try {
+				if(is!=null) {					
+					is.close();
+				}
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+	}
+}

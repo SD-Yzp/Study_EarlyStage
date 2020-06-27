@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlackHorse/BlackHorse.iml" filepath="$PROJECT_DIR$/BlackHorse/BlackHorse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course_0/Course_0.iml" filepath="$PROJECT_DIR$/Course_0/Course_0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO_study/IO_study.iml" filepath="$PROJECT_DIR$/IO_study/IO_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InternetCode/InternetCode.iml" filepath="$PROJECT_DIR$/InternetCode/InternetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPractice/MyPractice.iml" filepath="$PROJECT_DIR$/MyPractice/MyPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro01/MyPro01.iml" filepath="$PROJECT_DIR$/MyPro01/MyPro01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro02/MyPro02.iml" filepath="$PROJECT_DIR$/MyPro02/MyPro02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro03/MyPro03.iml" filepath="$PROJECT_DIR$/MyPro03/MyPro03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro04/MyPro04.iml" filepath="$PROJECT_DIR$/MyPro04/MyPro04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro05/MyPro05.iml" filepath="$PROJECT_DIR$/MyPro05/MyPro05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro07/MyPro07.iml" filepath="$PROJECT_DIR$/MyPro07/MyPro07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro08/MyPro08.iml" filepath="$PROJECT_DIR$/MyPro08/MyPro08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro10/MyPro10.iml" filepath="$PROJECT_DIR$/MyPro10/MyPro10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro11/MyPro11.iml" filepath="$PROJECT_DIR$/MyPro11/MyPro11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro12/MyPro12.iml" filepath="$PROJECT_DIR$/MyPro12/MyPro12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro13/MyPro13.iml" filepath="$PROJECT_DIR$/MyPro13/MyPro13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro14/MyPro14.iml" filepath="$PROJECT_DIR$/MyPro14/MyPro14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro15/MyPro15.iml" filepath="$PROJECT_DIR$/MyPro15/MyPro15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro16/MyPro16.iml" filepath="$PROJECT_DIR$/MyPro16/MyPro16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro17.iml" filepath="$PROJECT_DIR$/MyPro17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPro_ProcessFlow/MyPro_ProcessFlow.iml" filepath="$PROJECT_DIR$/MyPro_ProcessFlow/MyPro_ProcessFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySort/MySort.iml" filepath="$PROJECT_DIR$/MySort/MySort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mypro09/Mypro09.iml" filepath="$PROJECT_DIR$/Mypro09/Mypro09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneGame0.1/PlaneGame0.1.iml" filepath="$PROJECT_DIR$/PlaneGame0.1/PlaneGame0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneGame0.2/PlaneGame0.2.iml" filepath="$PROJECT_DIR$/PlaneGame0.2/PlaneGame0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneGame0.3/PlaneGame0.3.iml" filepath="$PROJECT_DIR$/PlaneGame0.3/PlaneGame0.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneGame0.4/PlaneGame0.4.iml" filepath="$PROJECT_DIR$/PlaneGame0.4/PlaneGame0.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneGame0.5/PlaneGame0.5.iml" filepath="$PROJECT_DIR$/PlaneGame0.5/PlaneGame0.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneGame0.6/PlaneGame0.6.iml" filepath="$PROJECT_DIR$/PlaneGame0.6/PlaneGame0.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneGame0.7/PlaneGame0.7.iml" filepath="$PROJECT_DIR$/PlaneGame0.7/PlaneGame0.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneGame0.8/PlaneGame0.8.iml" filepath="$PROJECT_DIR$/PlaneGame0.8/PlaneGame0.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro01/Pro01.iml" filepath="$PROJECT_DIR$/Pro01/Pro01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Python_Learn/Python_Learn.iml" filepath="$PROJECT_DIR$/Python_Learn/Python_Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SORM/SORM.iml" filepath="$PROJECT_DIR$/SORM/SORM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server_Practice/Server_Practice.iml" filepath="$PROJECT_DIR$/Server_Practice/Server_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server_study01/Server_study01.iml" filepath="$PROJECT_DIR$/Server_study01/Server_study01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server_study02/Server_study02.iml" filepath="$PROJECT_DIR$/Server_study02/Server_study02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server_study03/Server_study03.iml" filepath="$PROJECT_DIR$/Server_study03/Server_study03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server_study04/Server_study04.iml" filepath="$PROJECT_DIR$/Server_study04/Server_study04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestAdapter/TestAdapter.iml" filepath="$PROJECT_DIR$/TestAdapter/TestAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" filepath="$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestBridge/TestBridge.iml" filepath="$PROJECT_DIR$/TestBridge/TestBridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestBuilder/TestBuilder.iml" filepath="$PROJECT_DIR$/TestBuilder/TestBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestChainOfResp/TestChainOfResp.iml" filepath="$PROJECT_DIR$/TestChainOfResp/TestChainOfResp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestClassLoder/TestClassLoder.iml" filepath="$PROJECT_DIR$/TestClassLoder/TestClassLoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestComposite/TestComposite.iml" filepath="$PROJECT_DIR$/TestComposite/TestComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestDecorator/TestDecorator.iml" filepath="$PROJECT_DIR$/TestDecorator/TestDecorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestDynamicCompile/TestDynamicCompile.iml" filepath="$PROJECT_DIR$/TestDynamicCompile/TestDynamicCompile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestFacade/TestFacade.iml" filepath="$PROJECT_DIR$/TestFacade/TestFacade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestFactory/TestFactory.iml" filepath="$PROJECT_DIR$/TestFactory/TestFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestFlyWeight/TestFlyWeight.iml" filepath="$PROJECT_DIR$/TestFlyWeight/TestFlyWeight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestIterator/TestIterator.iml" filepath="$PROJECT_DIR$/TestIterator/TestIterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMediator/TestMediator.iml" filepath="$PROJECT_DIR$/TestMediator/TestMediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMemento/TestMemento.iml" filepath="$PROJECT_DIR$/TestMemento/TestMemento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMySQL/TestMySQL.iml" filepath="$PROJECT_DIR$/TestMySQL/TestMySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestObserver/TestObserver.iml" filepath="$PROJECT_DIR$/TestObserver/TestObserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestProtype/TestProtype.iml" filepath="$PROJECT_DIR$/TestProtype/TestProtype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestProxy/TestProxy.iml" filepath="$PROJECT_DIR$/TestProxy/TestProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestReflection/TestReflection.iml" filepath="$PROJECT_DIR$/TestReflection/TestReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRegex/TestRegex.iml" filepath="$PROJECT_DIR$/TestRegex/TestRegex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRhino/TestRhino.iml" filepath="$PROJECT_DIR$/TestRhino/TestRhino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSingleTon/TestSingleTon.iml" filepath="$PROJECT_DIR$/TestSingleTon/TestSingleTon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestState/TestState.iml" filepath="$PROJECT_DIR$/TestState/TestState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestStrategy/TestStrategy.iml" filepath="$PROJECT_DIR$/TestStrategy/TestStrategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestTemplate/TestTemplate.iml" filepath="$PROJECT_DIR$/TestTemplate/TestTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06-html.iml" filepath="$PROJECT_DIR$/day06-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_html.iml" filepath="$PROJECT_DIR$/day06_html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pylearn/pylearn.iml" filepath="$PROJECT_DIR$/pylearn/pylearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temp/temp.iml" filepath="$PROJECT_DIR$/temp/temp.iml" />
+    </modules>
+  </component>
+</project>

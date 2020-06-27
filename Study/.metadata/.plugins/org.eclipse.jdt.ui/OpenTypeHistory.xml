@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=Server_Practice/src&lt;test1{Servlet.java[Servlet" modifiers="513" timestamp="1568690668287"/>
+<typeInfo handle="=TestFactory/src&lt;cn.sd.yz.simplefactory{Car.java[Car" modifiers="513" timestamp="1568988126460"/>
+<typeInfo handle="=TestFactory/src&lt;cn.sd.yz.factory{CarFactory.java[CarFactory" modifiers="513" timestamp="1568988780140"/>
+<typeInfo handle="=TestFactory/src&lt;cn.sd.yz.abstractFactory{Engine.java[Engine" modifiers="513" timestamp="1568989368562"/>
+<typeInfo handle="=TestFactory/src&lt;cn.sd.yz.abstractFactory{Tyre.java[Tyre" modifiers="513" timestamp="1568989448583"/>
+<typeInfo handle="=TestFactory/src&lt;cn.sd.yz.abstractFactory{CarFactory.java[CarFactory" modifiers="513" timestamp="1568989852715"/>
+<typeInfo handle="=TestBuilder/src&lt;cn.sd.yz.builder{AirshipBuilder.java[AirshipBuilder" modifiers="513" timestamp="1569761042901"/>
+<typeInfo handle="=TestBuilder/src&lt;cn.sd.yz.builder{AirshipDirector.java[AirshipDirector" modifiers="513" timestamp="1569761501928"/>
+<typeInfo handle="=TestProxy/src&lt;cn.sd.yz.staticProxy{Star.java[Star" modifiers="513" timestamp="1570543706954"/>
+<typeInfo handle="=TestMediator/src&lt;cn.yz.sd.mediator{Department.java[Department" modifiers="513" timestamp="1570846478294"/>
+<typeInfo handle="=TestMediator/src&lt;cn.yz.sd.mediator{Mediator.java[Mediator" modifiers="513" timestamp="1570844819704"/>
+<typeInfo handle="=TestState/D:\/Eclipse\/eclipse\/jre\/lib\/rt.jar&lt;javax.xml.stream.events(StartDocument.class[StartDocument" modifiers="1537" timestamp="1559652179668"/>
+<typeInfo handle="=TestState/src&lt;cn.sd.yz.state{State.java[State" modifiers="513" timestamp="1570954984427"/>
+<typeInfo handle="=TestObserver/src&lt;cn.sd.yz.obeserver{Observer.java[Observer" modifiers="513" timestamp="1570956271141"/>
+<typeInfo handle="=SORM/D:\/Eclipse\/eclipse\/jre\/lib\/rt.jar&lt;java.lang.reflect(Type.class[Type" modifiers="1537" timestamp="1559652179668"/>
+</typeInfoHistroy>

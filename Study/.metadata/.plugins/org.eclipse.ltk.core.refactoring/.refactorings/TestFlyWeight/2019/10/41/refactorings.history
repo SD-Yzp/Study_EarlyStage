@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TestFlyWeight/src/cn/sd/yz/flyweight/Untitled 1&apos; to &apos;享元模式核心&apos;" description="Rename resource &apos;Untitled 1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/cn/sd/yz/flyweight/Untitled 1" name="享元模式核心" stamp="1570757255413" updateReferences="true"/>
+</session>

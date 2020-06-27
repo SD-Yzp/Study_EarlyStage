@@ -1,0 +1,65 @@
+package cn.sd.yz.universal01;
+
+import java.util.Scanner;
+
+public class Rock_Paper_Scissors_Up 
+{
+	public static void main(String[] args) 
+	{
+		Scanner in = new Scanner(System.in);
+		
+		
+		int n = in.nextInt();
+		int na = in.nextInt();
+		int nb = in.nextInt();
+		
+		int[] cycleA = new int[n];
+		int[] cycleB = new int[n];
+		
+		int countA = 0;
+		int countB = 0;
+		for(int i=0;i<n;i++)
+		{
+			if(i<na)
+			{				
+				cycleA[i] = in.nextInt();
+			}
+			else
+			{
+				cycleA[i] = cycleA[i-na];				
+			}
+		}
+		
+		for(int i=0;i<n;i++)
+		{
+			if(i<nb)
+			{
+				cycleB[i] = in.nextInt();
+			}
+			else 
+			{				
+				cycleB[i] = cycleB[i-nb];				
+			}
+		}
+		
+		
+		for(int i=0;i<n;i++)
+		{
+			switch(cycleA[i])
+			{
+			case 0:
+				switch(cycleB[i])
+				{
+				case 0:
+					break;
+				case 1:
+					countB++;
+					break;
+				case 2:
+					countA++;
+					break;
+				}
+			}
+		}
+	}
+}

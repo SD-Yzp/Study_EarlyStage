@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 11" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="D:/JAVA Code/workspace/Python_Learn/src/seven/Test1.py" status="error" test="Test1" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "D:\Eclipse\eclipse\plugins\org.python.pydev.core_7.2.1.201904261721\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "D:\JAVA Code\workspace\Python_Learn\src\seven\Test1.py", line 1, in <module>
+    f= open('latex.log','r')
+FileNotFoundError: [Errno 2] No such file or directory: 'latex.log'
+ERROR: Module: Test1 could not be imported (file: D:/JAVA Code/workspace/Python_Learn/src/seven/Test1.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Python_Learn seven"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

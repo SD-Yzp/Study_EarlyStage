@@ -1,0 +1,71 @@
+package TestJoseph;
+
+/**
+ * 创建单链表（增加remove方法，只考虑移除下标的节点）
+ * 将单链表变成循环链表
+ * @author Yin
+ *
+ */
+public class LinkList02 {
+	Node head = new Node(null);
+	Node first = head.next;
+	private int size;
+	
+	public void add(Object obj) {
+		Node node = new Node(obj);
+		
+		Node temp = null;
+		
+		if(head.next==null) {
+			head.next = node;
+			first = node;
+		}else {
+			temp = head;
+			while(temp.next!=null) {
+				temp = temp.next;
+			}
+			temp.next=node;
+		}
+		//循环链表，最末尾的节点指向第一个节点
+		node.next = first;
+		
+		size++;
+	}
+	
+	public void remove(int index) {
+		Node temp = null;
+		temp = head.next;
+		
+		
+	}
+	
+		
+	
+	@Override
+	public String toString() {
+		StringBuilder sb = new StringBuilder("[");
+		
+		Node temp = head.next;		
+		for(int i=0;i<size;i++) {
+			
+		}	
+		sb.setCharAt(sb.length()-1, ']');
+		
+		return sb.toString();
+	}
+
+
+
+
+
+	public static void main(String[] args) {
+		LinkList02 list = new LinkList02();
+		
+		list.add("aa");
+		list.add("bb");
+		list.add("cc");
+		
+		System.out.println(list);
+	}
+	
+}

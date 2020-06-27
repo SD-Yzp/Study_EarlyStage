@@ -1,0 +1,8 @@
+package cn.sd.yz.MySQL;
+
+public class Snippet {
+	public static void main(String[] args) {
+		?serverTimezone=UTC
+	}
+}
+

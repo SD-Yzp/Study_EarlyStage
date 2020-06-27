@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;web.xml&apos; to &apos;Server_Practice/src/test1&apos;&#x0D;&#x0A;- Original project: &apos;Server_study01&apos;&#x0D;&#x0A;- Destination element: &apos;Server_Practice/src/test1&apos;&#x0D;&#x0A;- Original element: &apos;web.xml&apos;" description="Copy file" destination="=Server_Practice/src&lt;test1" element1="src/web.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1568683807701" units="0" version="1.0"/>
+</session>
